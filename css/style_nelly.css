@@ -1,0 +1,99 @@
+#ftrow{
+   
+    background-color: #03254c;
+   padding: 30px 30px 30px 30px;
+}
+.navbarHd{
+    padding-bottom: 10px;
+    
+   
+}
+#div_search{
+   margin-top: 70px;
+}
+#coolgirls{
+    color: azure;
+    margin-left: 10px;
+    font-family:'Material Icons';
+    
+    
+}
+#navitem{
+    font-family: 'Material Icons';
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 0px -10px 0px 0px;
+    
+   
+}
+    
+.menu{
+    display:inline;
+}
+ #homeImg{
+    width: 100%;
+    margin-top:10px;
+    border-radius: 4px;
+ }
+#homeBkColor, #publicBkColor {
+    background-color:#f8f9fb;
+    
+}
+.homeBody, #publicbody{
+    background-color: #e7edf2;
+    
+}
+#srchbox{
+    background-color: #000c19;
+}
+#submitbtn,#btnRegister,
+#prevBtn,#nxtBtn,#rdMore{
+    background-color: #2f387b;
+    color: white;
+    font-weight: bold;
+}
+#footerdiv{
+    background-color:#2f387b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+#regisTitle{
+    text-align: center;
+    font-size: 'Material icon' ;
+    color: white;
+    
+}
+#regisForm{
+    background-color:white;
+    margin-left: 300px;
+    border-radius: 15px;
+    margin-bottom: 100px;
+    
+       
+}
+#frm{
+   border-bottom: 50px;
+}
+#registerBody{
+    background-color:#e7edf2 ;
+   
+}
+#registerBkColor{
+    background-color:#454f9b ;
+    border-radius: 10px;
+}
+#fillFrm{
+    font-family: 'Material icon';
+    font-size: 17px;
+    padding: 10px 5px 5px 5px;
+    text-align: center;
+    
+}
+#btnRegister{
+    margin-bottom: 15px;
+}
+#srchTxt{
+    font-size: 'Material icon' ;
+    color: black;
+}
